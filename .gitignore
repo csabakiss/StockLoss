@@ -1,0 +1,29 @@
+
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+src/**/*.suo
+src/**/*.bak
+src/**/*.[Cc]ache
+src/**/*.csproj.user
+src/**/*.pubxml.user
+src/**/[Bb]in/
+src/**/[Oo]bj/
+src/*/packages/*/*
+src/Tools/*/*/packages/*/*
+src/*/TestResults
+src/SocialGraphAPI/.vs/config/applicationhost.config
+/SmokeTests/test-results.xml
+packages
+/src/SocialGraph/.vs/config/applicationhost.config
+/RegressionTests/RegressionTestsLocalRunner/.vs/RegressionTestsLocalRunner/v14
+/RegressionTests/RegressionTestsLocalRunner/RegressionTestsLocalRunner/__pycache__
+/RegressionTests/test-results.xml
+/RegressionTests/RegressionTestsLocalRunner/RegressionTestsLocalRunner/orient.log
+/RegressionTests/RegressionTestsLocalRunner/RegressionTestsLocalRunner/iis_express.log
+*.user
+/RegressionTests/LocalRunner/LocalRunner/orient.log
+/RegressionTests/LocalRunner/LocalRunner/iis_express.log
+/RegressionTests/LocalRunner/LocalRunner/__pycache__
+/RegressionTests/LocalRunner/.vs/LocalRunner/v14
+/RegressionTests/LocalRunner/.vs/config
