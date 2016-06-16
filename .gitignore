@@ -27,3 +27,10 @@ packages
 /RegressionTests/LocalRunner/LocalRunner/__pycache__
 /RegressionTests/LocalRunner/.vs/LocalRunner/v14
 /RegressionTests/LocalRunner/.vs/config
+*.suo
+*.dll
+*.pdb
+*.cache
+/StockLoss/StockLoss/obj/Debug
+/StockLoss/StockLoss.Tests/bin/Debug
+/StockLoss/StockLoss.Tests/obj/Debug
